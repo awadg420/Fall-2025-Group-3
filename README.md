@@ -30,6 +30,8 @@ When a customer has a problem, they need to contact an employee. An account owne
 ## Data Dictionary:
 
 ## Queries:
+![Queries Table](Queries.png)
+
 
 ## Database Information:
 Name of the database: ns_Group3
